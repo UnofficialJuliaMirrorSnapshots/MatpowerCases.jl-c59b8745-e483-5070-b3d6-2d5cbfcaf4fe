@@ -1,0 +1,6 @@
+nbs
+matfiles
+51casefiles
+*.cov
+*.mem
+tags
